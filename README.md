@@ -9,8 +9,11 @@ TR - 10. Uluslararası Bilgi​sayar Bilimleri ve Mühendisliği ​Konferansı
 kısa bilgi ve sunum indirme linki
 
 ## AI Agents - Practical
-kısa bilgi ve koda link
 
+### NewsAgent
+
+Searches for recent news on a given topic, fetches article content, and generates a concise markdown brief with 3 key points and sources.
+Uses DuckDuckGo for news search and AI agent for content analysis.
 
 ----
 
@@ -22,9 +25,10 @@ kısa bilgi ve koda link
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
 ###  Contact
-For any questions or inquiries, please contact [Dr. Merve Ayyüce KIZRAK](https://www.linkedin.com/in/merve-ayyuce-kizrak/) and [Hayriye ANIL](). 
 
-eposta adresi ya da linkedin profili eklenebilir
+For any questions or inquiries, please contact [Dr. Merve Ayyüce KIZRAK](https://www.linkedin.com/in/merve-ayyuce-kizrak/) and [Hayriye ANIL](https://www.linkedin.com/in/hayriye-anil/).
 
 ### Reference
 buraya ana kaynaklar referans olarak eklenir
+- [Hugging Face AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction)
+- [Building Code Agents with Hugging Face smolagents](https://www.deeplearning.ai/short-courses/building-code-agents-with-hugging-face-smolagents/)
