@@ -7,7 +7,9 @@
 ## Overview
 This tutorial introduces participants to the evolution of large language models (LLMs), starting from their fundamental principles and progressing toward **agentic systems**. Participants will learn about model training, prompt engineering, RAG (Retrieval-Augmented Generation), and tool integration, as well as agentic LM design patterns such as planning, reflection, and multi-agent collaboration.  
 
-The tutorial concludes with the development of a **News Agent** application, allowing participants to consolidate their theoretical knowledge with hands-on implementation.  
+The tutorial concludes with the development of a **News Agent** application, allowing participants to consolidate their theoretical knowledge with hands-on implementation. 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c6feb67d-628e-4875-99c6-b55756ae743f" />
+
 
 ---
 
