@@ -1,6 +1,8 @@
 # AgenticAI Tutorial [UBMK25](https://ubmk.org.tr/)
-ENG - 10th International Conference of Computer Sciences and Engineering
-TR - 10. Uluslararası Bilgi​sayar Bilimleri ve Mühendisliği ​Konferansı
+10th International Conference of Computer Sciences and Engineering
+
+10. Uluslararası Bilgi​sayar Bilimleri ve Mühendisliği ​Konferansı
+
 
 ## Overview
 This tutorial introduces participants to the evolution of large language models (LLMs), starting from their fundamental principles and progressing toward **agentic systems**. Participants will learn about model training, prompt engineering, RAG (Retrieval-Augmented Generation), and tool integration, as well as agentic LM design patterns such as planning, reflection, and multi-agent collaboration.  
