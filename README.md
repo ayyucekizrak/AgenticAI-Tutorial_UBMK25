@@ -33,7 +33,7 @@ The tutorial concludes with the development of a **News Agent** application, all
 ---
 ## AI Agents - Practical
 
-### NewsAgent
+### [NewsAgent](https://github.com/ayyucekizrak/AgenticAI-Tutorial_UBMK25/blob/main/news_agent.ipynb)
 
 Searches for recent news on a given topic, fetches article content, and generates a concise markdown brief with 3 key points and sources.
 Uses DuckDuckGo for news search and AI agent for content analysis.
@@ -43,6 +43,10 @@ Uses DuckDuckGo for news search and AI agent for content analysis.
 * Join the [Community](https://huxai.tech/community-charter/) of learners and stay ahead together!
 * [Subscribe on Luma](https://luma.com/huxai?k=c) and stay tuned for our events!
 * [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7365810411406868483) our Newsletter!
+* [Super Study Guide: Dönüştürücüler ve Büyük Dil Modeli](https://leanpub.com/donusturuculer-buyuk-dil-modelleri)
+  <img width="196" height="282" alt="image" src="https://github.com/user-attachments/assets/d2e9e1cb-fb26-4b81-87b5-ab067e848c31" />
+
+
 
 ###  Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
