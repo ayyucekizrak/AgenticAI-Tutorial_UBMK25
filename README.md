@@ -39,7 +39,7 @@ Searches for recent news on a given topic, fetches article content, and generate
 Uses DuckDuckGo for news search and AI agent for content analysis.
 
 ----
-<img align="right" img width="196" height="282" alt="image" <a href="[https://stackoverflow.com/](https://leanpub.com/donusturuculer-buyuk-dil-modelleri))"> src="https://github.com/user-attachments/assets/cfd9f7a9-7563-4884-8eb0-48cc401e4d13" />
+<img align="right" img width="196" height="282" alt="image" src="https://github.com/user-attachments/assets/cfd9f7a9-7563-4884-8eb0-48cc401e4d13" />
 
 
 * Join the [Community](https://huxai.tech/community-charter/) of learners and stay ahead together!
