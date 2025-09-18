@@ -1,7 +1,7 @@
 # AgenticAI Tutorial [UBMK25](https://ubmk.org.tr/)
 10th International Conference of Computer Sciences and Engineering
 
-10. Uluslararası Bilgi​sayar Bilimleri ve Mühendisliği ​Konferansı
+10. Uluslararası Bilgi​sayar Bilimleri ve Mühendisliği ​Konferansı [TR]
 
 
 ## Overview
@@ -44,10 +44,8 @@ Uses DuckDuckGo for news search and AI agent for content analysis.
 * [Subscribe on Luma](https://luma.com/huxai?k=c) and stay tuned for our events!
 * [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7365810411406868483) our Newsletter!
 * [Super Study Guide: Dönüştürücüler ve Büyük Dil Modeli](https://leanpub.com/donusturuculer-buyuk-dil-modelleri)
-  
-  <img align="right" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d2e9e1cb-fb26-4b81-87b5-ab067e848c31" />
 
-
+<img align="right" img width="196" height="282" alt="image" src="https://github.com/user-attachments/assets/cfd9f7a9-7563-4884-8eb0-48cc401e4d13" />
 
 ###  Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
