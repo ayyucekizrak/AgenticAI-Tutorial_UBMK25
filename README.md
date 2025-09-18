@@ -28,7 +28,7 @@ The tutorial concludes with the development of a **News Agent** application, all
 - Real-world applications: software development, research, automation  
 - **Hands-on project: building a News Agent**
 
-### [Open turorial](https://github.com/ayyucekizrak/AgenticAI-Tutorial_UBMK25/blob/main/AgenticAI_HUX%20AI%20.pdf)
+### [Open tutorial](https://github.com/ayyucekizrak/AgenticAI-Tutorial_UBMK25/blob/main/AgenticAI_HUX%20AI%20.pdf)
 
 ---
 ## AI Agents - Practical
